@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646680e0b0227036c53150012147b623d28393930
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464673040904061525561e1f03112522072036242a1803f0ef242badcb3feeef2e3a381d07e233373d0431f7441c05ff1f13
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 2242470311464678181d182d1d2a451512572f2f2d38293e3e695073ceef2378f2e83af0a8093c393703a00f073b0f3abc1f0702e212
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146466b020215251f2d6c0417050c2f3e67153328271820adc43135eda923e7ee2e26
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646760c1a18271f1c7e1e12051d2b63182a31233d0e05f1da3b35e0ee33cae82a26731a17fc280b330825f70e493cf30a1a041f1dbd4351d31f0451d517c903872c1fce171d81fe1ed4edd098c1e4d1fffe
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646760c1a18271f1c7e1e12051d2b63182a31233d0e05f1da3b35e0ee33cae82a26730a01ea32012d4e0cf3071907f338090e1f0bb31b1ff6040a
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646760c1a18271f1c7e1e12051d2b63182a31233d0e05f1da3b35e0ee33cae82a26730a01ea32012d4e33f71c0c07a7451f05181ae4
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646760c1a18271f1c7e1e12051d2b63182a31233d0e05f1da3b35e0ee33cae82a2673090de32503310f0ce60b1b1ff3194538120bf30b02b03c1607c0149454dd1115df00
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
